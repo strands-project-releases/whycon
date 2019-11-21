@@ -1,3 +1,26 @@
+## whycon (melodic) - 0.2.4-1
+
+The packages in the `whycon` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic whycon` on `Thu, 21 Nov 2019 15:05:00 -0000`
+
+The `whycon_ros` package was released.
+
+Version of package(s) in repository `whycon`:
+
+- upstream repository: https://github.com/LCAS/whycon.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## whycon (indigo) - 1.2.4-0
 
 The packages in the `whycon` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo whycon` on `Mon, 02 Nov 2015 11:45:50 -0000`
