@@ -2,6 +2,13 @@
 Changelog for package whycon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.4 (2019-11-21)
+------------------
+* fixed dependencies
+* added id generator
+* imported snapcart version
+* Contributors: Marc Hanheide
+
 1.2.4 (2015-11-02)
 ------------------
 * Merge pull request `#3 <https://github.com/LCAS/whycon/issues/3>`_ from Jailander/master
