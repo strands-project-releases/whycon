@@ -1,3 +1,26 @@
+## whycon (melodic) - 2.3.0-1
+
+The packages in the `whycon` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y --no-web -t melodic -r melodic whycon` on `Fri, 22 Nov 2019 17:02:18 -0000`
+
+The `whycon_ros` package was released.
+
+Version of package(s) in repository `whycon`:
+
+- upstream repository: https://github.com/LCAS/whycon.git
+- release repository: https://github.com/strands-project-releases/whycon.git
+- rosdistro version: `0.2.4-1`
+- old version: `0.2.4-1`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## whycon (melodic) - 0.2.4-1
 
 The packages in the `whycon` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic whycon` on `Thu, 21 Nov 2019 15:05:00 -0000`
